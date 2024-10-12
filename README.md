@@ -13,10 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhanurag19798&theme=default_repocard&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-
-<div align="center" style="background-color: white; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; display: inline-block;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="border-radius: 12px;">
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=singhanurag19798&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
