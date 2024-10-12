@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhanurag19798&theme=default_repocard&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=singhanurag19798&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=9)
+![](https://github-profile-trophy.vercel.app/?username=singhanurag19798&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
