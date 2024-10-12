@@ -18,9 +18,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="border-radius: 12px;">
 </div>
 
-### ✨ Animated Section (Simulated Animation via GIF)
-![Animated Dev Quote](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=singhanurag19798&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
