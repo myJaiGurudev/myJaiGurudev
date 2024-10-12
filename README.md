@@ -14,20 +14,12 @@
 
 ### ✍️ Random Dev Quote
 
-<div align="center" style="background:linear-gradient(145deg, #e0e0e0, #f0f0f0); border-radius: 12px; box-shadow: 5px 5px 15px rgba(0,0,0,0.1), -5px -5px 15px rgba(255,255,255,0.7); padding: 15px; display: inline-block; animation: glow 2s infinite alternate;">
+<div align="center" style="background-color: white; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; display: inline-block;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="border-radius: 12px;">
 </div>
 
-<style>
-@keyframes glow {
-    from {
-        box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
-    }
-    to {
-        box-shadow: 0 0 20px rgba(255, 215, 0, 1);
-    }
-}
-</style>
+### ✨ Animated Section (Simulated Animation via GIF)
+![Animated Dev Quote](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=singhanurag19798&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
