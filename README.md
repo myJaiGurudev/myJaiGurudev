@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=singhanurag19798&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhanurag19798&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhanurag19798&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=singhanurag19798&theme=radical&no-frame=false&no-bg=true&margin-w=4)
