@@ -1,8 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on JaiCompiler<br>🌱 I’m currently learning React JS<br>💬 Ask me about Python, C++, C, JavaScript, React, HTML, CSS<br>⚡ Fun fact: I love both coding and web development 
 
-### LeetCode Stats
+# LeetCode Stats
 ![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=contest)
+
+# Codeforces Stats
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jai_gurudev)
 
 ## 🌐 Socials:
 <div align="left">
