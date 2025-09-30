@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on JaiCompiler<br>🌱 I’m currently learning React JS<br>💬 Ask me about Python, C++, C, JavaScript, React, HTML, CSS<br>⚡ Fun fact: I love both coding and web development 
 
+![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=heatmap)
 
 ## 🌐 Socials:
 <div align="left">
@@ -17,9 +18,6 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=myJaiGurudev)](https://git.io/streak-stats)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=myJaiGurudev&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
