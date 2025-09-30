@@ -5,12 +5,7 @@
 ![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=contest)
 
 # Codeforces Stats
-<a href="https://codeforces.com/profile/jai_gurudev">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jai_gurudev" alt="Codeforces Stats">
-</a>
-<a href="https://codeforces.com/profile/jai_gurudev">
-  <img src="https://codeforces-readme-stats.vercel.app/api/contest?username=jai_gurudev" alt="Codeforces Contest Graph">
-</a>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=jai_gurudev)
 
 ## 🌐 Socials:
 <div align="left">
