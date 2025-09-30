@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on JaiCompiler<br>🌱 I’m currently learning React JS<br>💬 Ask me about Python, C++, C, JavaScript, React, HTML, CSS<br>⚡ Fun fact: I love both coding and web development 
 
-![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=heatmap)
+![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=contest,heatmap)
 
 ## 🌐 Socials:
 <div align="left">
