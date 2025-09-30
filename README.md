@@ -3,7 +3,6 @@
 
 ### LeetCode Stats
 ![](https://leetcard.jacoblin.cool/jaiGurudevCode?ext=contest)
-<img src="https://leetcard.jacoblin.cool/jaiGurudevCode?ext=heatmap_only" alt="LeetCode Heatmap">
 
 ## 🌐 Socials:
 <div align="left">
